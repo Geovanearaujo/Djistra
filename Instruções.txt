@@ -1,0 +1,52 @@
+1-Abra o executável 
+2-Aperte "d", para adicionar o grafo
+3-Cada linha é uma aresta, sendo a primeira coluna a origem a segunda o destino e terceira a distância
+d
+1, 2, 40
+1,15, 30
+2, 1, 40
+2, 3, 20
+2, 14, 75
+3, 2, 20
+3, 4, 55
+4, 3, 55
+4, 5, 60
+4, 14, 44
+5, 4, 60
+5, 6, 30
+5, 10, 78
+5, 12, 45
+5, 13, 63
+5, 14, 60
+6, 5, 30
+6, 7, 28
+6, 9, 34
+7, 6, 28
+7, 8, 32
+8, 7, 32
+8, 9, 38
+9, 6, 34
+9, 8, 38
+9, 10, 27
+10, 5, 78
+10, 9, 27
+10, 11, 28
+11, 10, 28
+11, 12, 40
+12, 5, 45
+12, 11, 40
+13, 5, 63
+13, 14, 28
+13, 15, 90
+14, 2, 75
+14, 4, 44
+14, 5, 60
+14, 13, 28
+14, 15, 85
+15, 1, 30
+15, 13, 90
+15, 14, 85
+
+4-Depois, é só digitar enter e  "0" pra sair e r para exibir os resultados.
+
+**Tem um vídeo demonstrando a execução do resultado do custo das 15 cidades**.
